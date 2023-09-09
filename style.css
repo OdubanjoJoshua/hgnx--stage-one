@@ -143,10 +143,11 @@ img {
     gap: 43px;
 }
 
-span {
-    font-weight: 700;
-}
-
 p {
     font-size: 3em;
+    font-weight: 900;
+}
+
+span {
+    font-weight: 100;
 }
